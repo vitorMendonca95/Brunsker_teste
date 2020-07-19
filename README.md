@@ -23,5 +23,5 @@ Para executar o projeto as seguinte dependências são necessárias:
 - php artisan serve
 ## Descrição do projeto
 - Para execução do projeto, visando aproveitar o máximo do framework, utilizei o eloquent pra realizar as consultas.
-- O projeto foi estruturado em MVC, onde tenho a estrurura de model view controller, sendo o model sendo a camada responsável por informações do banco, como por exemplo campos, nome da tabela referente, primary key. Essa camada é responsável por comunicação com o banco. Controller:  esta camada é responsável por conter a regra de negócio. View: camada responsável por trazer interfaces do usuário.
+- O projeto foi estruturado em MVC.
 - Login: Está sendo salvo um password criptografado. Para a criptografia dos passwords, utilizei os próprios recursos do framework Laravel, assim como para a autenticação.

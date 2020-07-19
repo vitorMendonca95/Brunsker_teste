@@ -12,7 +12,8 @@ Para executar o projeto as seguinte dependências são necessárias:
 - Apache
 - git
 - composer
-### pode ser usado pacotes como xampp, lamp, wamp.
+### Pode ser usado pacotes como xampp, lamp, wamp.
+
 ## Requisitos necessários:
 - Clone o repositório;
 - Crie o arquivo .env semelhante o .env.example ajustado nome da base, host, user e password;

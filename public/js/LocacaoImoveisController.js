@@ -4,8 +4,6 @@ var myApp= angular.module("AngularApp",[]);
 
 myApp.controller("HelloController", function($scope){  
 
-
-    $scope.teste = 'alo';
     $scope.url = window.location.href;
 
     $scope.dependenciasAnuncio = function(){        

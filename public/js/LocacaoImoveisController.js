@@ -103,7 +103,7 @@ myApp.controller("HelloController", function($scope){
                   'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
               },
               success: function(response){
-                  console.log('rolou');
+                  console.log('.');
                   
               }
         });

@@ -3,7 +3,7 @@
 Para desenvolver o desafio em questão, foram utilizadas as seguintes linguagens:
 - PHP com framework laravel 7.2;
 - Frontend utilizando AngularJS e Blade com auxílio de HTML 5, CSS3 e jquery
-- Comunicação do Frontend com Backend utilizando Ajax.
+- Comunicação Frontend/Backend utilizando Ajax.
 - Banco de dados mysql
 ## Dependências:
 Para executar o projeto as seguinte dependências são necessárias:

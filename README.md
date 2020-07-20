@@ -16,7 +16,7 @@ Para executar o projeto as seguinte dependências são necessárias:
 
 ## Requisitos necessários:
 - Clone o repositório;
-- Crie o arquivo .env semelhante o .env.example ajustando nome do data base, host, user e password;
+- Crie o arquivo .env semelhante o .env.example ajustando nome do database, host, user e password;
 - Na raiz do projeto abra um prompt e execute os comandos: composer install;
 - php artisan key:generate;
 - Executar o dump do banco. O script está no diretório /dump_bd

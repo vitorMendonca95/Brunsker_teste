@@ -1,6 +1,6 @@
 # Locacao-Imovel
 ## Linguagens utilizadas:
-Para desenvolver o desafio em questão, foram utilizadas as seguintes linguagens:
+Foram utilizadas as seguintes linguagens:
 - PHP com framework laravel 7.2;
 - Frontend utilizando AngularJS e Blade com auxílio de HTML 5, CSS3 e jquery
 - Comunicação Frontend/Backend utilizando Ajax/Json (REST).

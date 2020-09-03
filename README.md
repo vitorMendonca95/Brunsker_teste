@@ -1,4 +1,4 @@
-# Teste Técnico Brunsker
+# Locacao-Imovel
 ## Linguagens utilizadas:
 Para desenvolver o desafio em questão, foram utilizadas as seguintes linguagens:
 - PHP com framework laravel 7.2;
